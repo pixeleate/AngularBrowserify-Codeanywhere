@@ -1,0 +1,29 @@
+{
+  "name": "AngularBrowserify-Codeanywhere",
+  "version": "1.0.0",
+  "description": "Angular application developed in codeanywhere.com",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pixeleate/AngularBrowserify-Codeanywhere.git"
+  },
+  "keywords": [
+    "angularjs",
+    "browserify",
+    "codeanywhere"
+  ],
+  "author": "Ulises Garcia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pixeleate/AngularBrowserify-Codeanywhere/issues"
+  },
+  "homepage": "https://github.com/pixeleate/AngularBrowserify-Codeanywhere",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-connect": "^2.2.0",
+    "gulp-jade": "^1.0.0"
+  }
+}
