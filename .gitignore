@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 /node_modules
 /bower_modules
+/dist
 =======
 # Logs
 logs
